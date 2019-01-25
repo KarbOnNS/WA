@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SklepGry", "SklepGry\SklepGry.csproj", "{CE465D51-54F8-43CB-8997-493EA9A26FBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE465D51-54F8-43CB-8997-493EA9A26FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE465D51-54F8-43CB-8997-493EA9A26FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE465D51-54F8-43CB-8997-493EA9A26FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE465D51-54F8-43CB-8997-493EA9A26FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA15E7B0-FF22-4F2E-A9D4-7413F8467AC8}
+	EndGlobalSection
+EndGlobal

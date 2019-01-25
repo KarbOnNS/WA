@@ -1,0 +1,12 @@
+D:\Karbowiak\ProjektGra\SklepGry\SklepGry\bin\SklepGry.dll
+D:\Karbowiak\ProjektGra\SklepGry\SklepGry\bin\SklepGry.pdb
+D:\Karbowiak\ProjektGra\SklepGry\SklepGry\obj\Debug\SklepGry.dll
+D:\Karbowiak\ProjektGra\SklepGry\SklepGry\obj\Debug\SklepGry.pdb
+D:\Karbowiak\ProjektGra\SklepGry\SklepGry\obj\Debug\SklepGry.csprojResolveAssemblyReference.cache
+C:\Users\Yenneisma\Desktop\SklepGry\SklepGry\obj\Debug\SklepGry.csprojAssemblyReference.cache
+C:\Users\Yenneisma\Desktop\SklepGry\SklepGry\obj\Debug\SklepGry.csproj.CoreCompileInputs.cache
+C:\Users\Yenneisma\Desktop\SklepGry\SklepGry\obj\Debug\SklepGry.dll
+C:\Users\Yenneisma\Desktop\SklepGry\SklepGry\obj\Debug\SklepGry.pdb
+C:\Users\Yenneisma\Desktop\SklepGry\SklepGry\bin\SklepGry.dll.config
+C:\Users\Yenneisma\Desktop\SklepGry\SklepGry\bin\SklepGry.dll
+C:\Users\Yenneisma\Desktop\SklepGry\SklepGry\bin\SklepGry.pdb
